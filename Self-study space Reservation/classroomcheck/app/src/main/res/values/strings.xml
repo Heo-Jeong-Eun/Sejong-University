@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">classroomcheck</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="title_myinfo">내정보</string>
+    <string name="title_search">강의실검색</string>
+
+</resources>

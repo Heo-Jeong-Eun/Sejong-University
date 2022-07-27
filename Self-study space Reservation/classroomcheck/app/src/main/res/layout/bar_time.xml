@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <TextView
+        style="@style/bar_time_text"
+        android:text="09:00" />
+
+    <TextView
+        style="@style/bar_time_text"
+        android:text="10:00" />
+
+
+
+    <TextView
+        style="@style/bar_time_text"
+        android:text="11:00" />
+
+
+
+    <TextView
+        style="@style/bar_time_text"
+        android:text="12:00" />
+
+
+
+    <TextView
+        style="@style/bar_time_text"
+        android:text="13:00" />
+
+
+    <TextView
+        style="@style/bar_time_text"
+        android:text="14:00" />
+
+
+    <TextView
+        style="@style/bar_time_text"
+        android:text="15:00" />
+
+
+
+    <TextView
+        style="@style/bar_time_text"
+        android:text="16:00" />
+
+
+
+    <TextView
+        style="@style/bar_time_text"
+        android:text="17:00" />
+
+
+
+    <TextView
+        style="@style/bar_time_text"
+        android:text="18:00" />
+
+    <TextView
+        style="@style/bar_time_text"
+        android:text="19:00" />
+    <TextView
+        style="@style/bar_time_text"
+        android:text="20:00" />
+    <TextView
+        style="@style/bar_time_text"
+        android:text="21:00" />
+    <TextView
+        style="@style/bar_time_text"
+        android:text="22:00" />
+
+
+
+</merge>
