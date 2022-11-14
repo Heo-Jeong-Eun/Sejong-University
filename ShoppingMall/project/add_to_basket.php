@@ -8,7 +8,6 @@
   $price = $_GET['price'];
   $item_type = $_GET['item'];
 
-
   $query_A = "SELECT *FROM basket WHERE mem_id = '$mem_id'";
   $result_A = mysqli_query($conn, $query_A);
   $flag = 0;
