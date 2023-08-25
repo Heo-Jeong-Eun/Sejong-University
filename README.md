@@ -1,7 +1,7 @@
 ## Sejong University
 This project was produced when I was a student at Sejong University.
 
-> ****<a href = https://www.notion.so/Shopping-Mall-Web-a4eaa04ac1464732891c015031fe73ae>1. Shopping Mall (Web) - 2020</a>****
+> ****<a href = https://www.notion.so/Shopping-Mall-Web-a4eaa04ac1464732891c015031fe73ae>Shopping Mall (Web) - 2020</a>****
 > 
 > - **2-person Project** at Sejong University
 > - **Role** in a Project
@@ -16,7 +16,7 @@ This project was produced when I was a student at Sejong University.
 > - **Language, Framework, Infra**
 >     - MySQL, PHP, ERwin, HTML, CSS, JavaScript, Shell, Terminal, Window
 
-> ****<a href = https://www.notion.so/Lecture-Room-Reservation-Android-APP-467023061c094f748a8abb184f0dade5>2. Lecture Room Reservation (Android App) - 2020</a>****
+> ****<a href = https://www.notion.so/Lecture-Room-Reservation-Android-APP-467023061c094f748a8abb184f0dade5>Lecture Room Reservation (Android App) - 2020</a>****
 > 
 > - **3-person Project** at Sejong University
 > - **Role** in a Project
