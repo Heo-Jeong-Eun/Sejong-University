@@ -1,4 +1,4 @@
-## Sejong University
+# Sejong University
 This project was produced when I was a student at Sejong University.
 
 > ****<a href = https://www.notion.so/Shopping-Mall-Web-a4eaa04ac1464732891c015031fe73ae>Shopping Mall (Web) - 2020</a>****
